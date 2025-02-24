@@ -36,8 +36,8 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.BackgroundTransparency = 1.000
 TextLabel.Size = UDim2.new(1.00234735, 0, 1.08253634, 0)
 TextLabel.Font = Enum.Font.SourceSansSemibold
-TextLabel.Text = "Arceus | Aimbot"
-TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.Text = "Aimbot Brabo"
+TextLabel.TextColor3 = Color3.fromRGB((255,0,0)
 TextLabel.TextSize = 16.000
 
 TextButton.Parent = Frame_2
